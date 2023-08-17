@@ -4,5 +4,5 @@
 <a align="center" href='https://postimg.cc/xqwbCHRW' target='_blank'><img src='https://i.postimg.cc/xqwbCHRW/Siarhei-Bury.png' border='0' alt='Siarhei-Bury'/></a>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tutneshta&theme=dark&background=000000)](https://git.io/streak-stats)
 
