@@ -1,4 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<a align="center" href='https://postimg.cc/xqwbCHRW' target='_blank'><img src='https://i.postimg.cc/xqwbCHRW/Siarhei-Bury.png' border='0' alt='Siarhei-Bury'/></a>
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.postimg.cc/xqwbCHRW/Siarhei-Bury.png)https://i.postimg.cc/xqwbCHRW/Siarhei-Bury.png" width="600" height="300"/>
+</div>
